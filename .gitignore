@@ -41,6 +41,7 @@
 *.su
 *.idb
 *.pdb
+//This file is being modified
 
 # Kernel Module Compile Results
 *.mod*
